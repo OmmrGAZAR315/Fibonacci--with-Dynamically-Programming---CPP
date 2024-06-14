@@ -1,3 +1,5 @@
 # ninja log v5
 3	300	7401017286815140	build.ninja	44738633ace6894e
 371	472	7401013612213179	code_smell.exe	fab0da8eaf94237d
+1	513	7401020854661476	CMakeFiles/Dynamically-Programming.dir/main.cpp.obj	ec45ba9df0fdca8e
+515	629	7401020855807419	Dynamically-Programming.exe	9519ce31f8fe296d
